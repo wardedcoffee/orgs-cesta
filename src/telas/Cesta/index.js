@@ -16,7 +16,7 @@ export default function Cesta({ topo, detalhes }) {
 
 const estilos = StyleSheet.create({
     cesta:{
-        paddingHorizontal: 8,
+        paddingHorizontal: 16,
         paddingVertical: 16,
     },
 })
