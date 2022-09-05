@@ -53,4 +53,7 @@ const estilos = StyleSheet.create({
         lineHeight: 42,
         marginTop: 8,
     },
+    botao: {
+        marginTop: 16,
+    },
 })
