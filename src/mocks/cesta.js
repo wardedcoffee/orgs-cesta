@@ -9,37 +9,37 @@ import abobora from '../../assets/frutas/Abóbora.png';
 
 const cesta = {
     topo: {
-        titulo: "Detalhes da cesta", 
+        titulo: 'Detalhes da cesta', 
     },
     detalhes: {
-        nome: "Cesta de Verduras",
+        nome: 'Cesta de Verduras',
         logoFazenda: logo,
-        nomeFazenda: "Jenny Jack Farm",
-        descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
-        preco: "R$ 40,00",
-        botao: "Comprar",
+        nomeFazenda: 'Jenny Jack Farm',
+        descricao: 'Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha',
+        preco: 'R$ 40,00',
+        botao: 'Comprar',
     },
     itens: {
-        titulo: "Itens da cesta",
+        titulo: 'Itens da cesta',
         lista: [
             {
-                nome: "Tomate",
+                nome: 'Tomate',
                 imagem: tomate,
             },
             {
-                nome: "Brócolis",
+                nome: 'Brócolis',
                 imagem: brocolis,
             },
             {
-                nome: "Batata",
+                nome: 'Batata',
                 imagem: batata,
             },
             {
-                nome: "Pepino",
+                nome: 'Pepino',
                 imagem: pepino,
             },
             {
-                nome: "Abóbora",
+                nome: 'Abóbora',
                 imagem: abobora,
             }
         ]
